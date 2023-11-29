@@ -1,3 +1,12 @@
+// The Project OF The Display OF The Specific Character ON The Dot Matrix .
+
+// In This Program, We Want To Display The Specific Character ON The Dot Matrix .
+
+// The Main Code OF The Project OF The Display OF The Specific Character ON The Dot Matrix . .C
+
+
+
+
 #include <MaxMatrix.h>                                                                                                                              // Library Required For This Project .
 
 
