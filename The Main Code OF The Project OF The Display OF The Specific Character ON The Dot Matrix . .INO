@@ -2,7 +2,7 @@
 
 // In This Program, We Want To Display The Specific Character ON The Dot Matrix .
 
-// The Main Code OF The Project OF The Display OF The Specific Character ON The Dot Matrix . .C
+// The Main Code OF The Project OF The Display OF The Specific Character ON The Dot Matrix . .INO .
 
 
 
